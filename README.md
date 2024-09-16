@@ -3,8 +3,7 @@ Install Node.js: Ensure you have Node.js installed on your system. You can downl
 
 Create Project Directory:
 
-bash
-Copy code
+
 mkdir polynomial-interpolation
 cd polynomial-interpolation
 Create index.js File: Save the provided JavaScript code in a file named index.js.
